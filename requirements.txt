@@ -1,0 +1,6 @@
+# requirements.txt (adaptez aux versions affichées) 
+streamlit==1.64.0 
+scikit-learn==1.2.2 
+pandas==2.0.1 
+joblib==1.6.0 
+openpyxl==3.1.5
